@@ -23,6 +23,10 @@ Tools: Cisco CLI, MS Excel, SQL
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="20" width="30"/>
 </a>
 
+<a href="mailto:abhaybinwal@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="20" width="30"/>
+</a>
+
 
 
 
