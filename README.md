@@ -34,9 +34,7 @@ Tools: Cisco CLI, MS Excel, SQL
 
 <br /><br />
 
-<p align="left">
-  [📄 My Resume](https://github.com/abhaybinwal/Network-Security-Resume/raw/6ee04db10a7756b6e01e9660598a0eda75b6618b/Abhay_Binwal_Network_Security.pdf)
-</p>
+[📄 My Resume](https://github.com/abhaybinwal/Network-Security-Resume/raw/6ee04db10a7756b6e01e9660598a0eda75b6618b/Abhay_Binwal_Network_Security.pdf)
 
 
 
