@@ -27,3 +27,13 @@ Tools: Cisco CLI, MS Excel, SQL
 
 [👉 View My CV](https://github.com/abhaybinwal/Network-Security-Resume/blob/6ee04db10a7756b6e01e9660598a0eda75b6618b/Abhay_Binwal_Network_Security.pdf)
 
+
+
+
+
+<a href="https://github.com/abhaybinwal/Network-Security-Resume/raw/main/Abhay_Binwal_Network_Security.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View-blue" alt="View Resume">
+</a>
+
+
+
