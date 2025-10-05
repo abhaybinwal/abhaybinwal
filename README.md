@@ -22,15 +22,12 @@ Tools: Cisco CLI, MS Excel, SQL
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="20" width="30"/>
 </a>
 
-<a href="mailto:abhaybinwal@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="20" width="30"/>
-</a>
-
 <a href="https://x.com/Abhaybinwal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhaybinwal" height="20" width="30" /></a>
 
 
-
-
+<a href="mailto:abhaybinwal@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="20" width="30"/>
+</a>
 
 
 [📄My Resume](https://github.com/abhaybinwal/Network-Security-Resume/raw/6ee04db10a7756b6e01e9660598a0eda75b6618b/Abhay_Binwal_Network_Security.pdf)
