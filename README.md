@@ -15,8 +15,11 @@ Troubleshooting & Packet Flow Analysis
 Tools: Cisco CLI, MS Excel, SQL
 </h3>
 
-[<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Abhaybinwal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhaybinwal" height="20" width="30" /></a>
 <a href="https://www.linkedin.com/in/abhaybinwal/" target="blank"><img align="center" src="https://github.com/abhaybinwal/abhaybinwal" height="20" width="30" /></a>
 </p>](https://github.com/abhaybinwal/abhaybinwal)
+
+
+[![View CV](https://img.shields.io/badge/CV-View-blue)]([https://github.com/yourusername/my-cv-repo/raw/main/cv.pdf](https://github.com/abhaybinwal/Network-Security-Resume/blob/6ee04db10a7756b6e01e9660598a0eda75b6618b/Abhay_Binwal_Network_Security.pdf))
